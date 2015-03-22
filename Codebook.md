@@ -1,2 +1,6 @@
 # DataCleansingTomasz
-### SSS
+Raw data:
+
+Output data:
+
+Codebook:
