@@ -31,6 +31,4 @@ Steps to execute the run_analysis.R program:
 - Unzip the above file in the R working directory. The UCI HAR Dataset directory will be created.
 - Copy the run_analysis.R file to the R working directory
 - Excute the run_analysis.R program
-- The clean text file SummarizedDataFile.txt will be created in the R working directory
-
-2. 
+- The clean SummarizedDataFile.txt text file will be created in the R working directory
