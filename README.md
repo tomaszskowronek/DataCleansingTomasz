@@ -1,12 +1,11 @@
 # DataCleansingTomasz
 
-This DataCleansingTomasz repository contains the following files:
+The DataCleansingTomasz repository contains the following files:
 - run_analysis.R - an R program which reads and cleanse the raw data. The clean data is writen in the output file.
 - Codebook.md    - a document describing the variables, the data and the transormations performed to clean up the data
 - README.md      - a document describing all files of this repository
 
-1. run_analysis.R
-An R program reading data from the multiple text files in the getdata-projectfiles-UCI HAR Dataset.zip file available at:
+The run_analysis.R program reads data from the multiple text files in the getdata-projectfiles-UCI HAR Dataset.zip file available at:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The getdata-projectfiles-UCI HAR Dataset.zip file contains the following text files required for this analysis:
@@ -33,3 +32,5 @@ Steps to execute the run_analysis.R program:
 - Copy the run_analysis.R file to the R working directory
 - Excute the run_analysis.R program
 - The clean text file SummarizedDataFile.txt will be created in the R working directory
+
+2. 
